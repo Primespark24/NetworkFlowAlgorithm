@@ -4,8 +4,7 @@
 ## Objectives:
 Complete the network flow algorithm for SPOJ POTHOLE
 
-# Programming Assignments (DO ALL)
-
+# Programming Assignment
 | SPOJ Problem                |                   |         |
 | ----------------------------|:-----------------:|:-------:|
 | SPOJ POTHOLE                |                   | 100 pts |
