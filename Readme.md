@@ -7,8 +7,8 @@ Complete the network flow algorithm for SPOJ POTHOLE
 # Programming Assignment
 | SPOJ Problem                |                   |         |
 | ----------------------------|:-----------------:|:-------:|
-| SPOJ POTHOLE                |                   | 100 pts |
-| Total                       |                   | 100 pts  |
+| SPOJ POTHOLE                |          87         | 100 pts |
+| Total                       |          87 - no spoj acceptance image         | 100 pts  |
 
 ## Instructions:
 1. Use git to clone this the LM folder from Whitgit to a local machine 
